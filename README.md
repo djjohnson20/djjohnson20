@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donald Johnson</h1>
 <h3 align="center">I am currently a software engineering student with TripleTen</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djjohnson20&label=Profile%20views&color=0e75b6&style=flat" alt="djjohnson20" /> </p>
 
 - 🔭 I’m currently working on [ToDo App](https://djjohnson20.github.io/se_project_todo-app/)
 
