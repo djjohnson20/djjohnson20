@@ -2,7 +2,7 @@
 <h3 align="center">I am currently a software engineering student with TripleTen</h3>
 
 
-- 🔭 I’m currently working on [Spots](https://github.com/djjohnson20/se_project_spots)
+- 🔭 I’m currently working on [Spots](https://djjohnson20.github.io/se_project_spots/)
 
 - 🌱 I’m currently learning **JavaScript**
 
